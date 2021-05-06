@@ -13,6 +13,7 @@ title: new2
 ## new1
 :PROPERTIES:
 :background_color: #497d46
+:heading: true
 :END:
 ##
 ##
