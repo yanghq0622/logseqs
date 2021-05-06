@@ -11,5 +11,8 @@ title: new2
 ## ds
 ## fds
 ## new1
+:PROPERTIES:
+:background_color: #497d46
+:END:
 ##
 ##
