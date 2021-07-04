@@ -75,4 +75,5 @@
  :markdown/version 2
  :date-formatter "yyyy-MM-dd"
  :editor/logical-outdenting? true
- :feature/enable-journals? false}
+ :feature/enable-journals? false
+ :default-home {}}
